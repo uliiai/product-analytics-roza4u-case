@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420">
+<rect width="100%" height="100%" fill="#FFFFFF" rx="12"/>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }.title { font-size: 18px; font-weight: 700; fill: #222222; }.subtitle { font-size: 12px; fill: #666666; }.axis { font-size: 12px; fill: #555555; }.val { font-size: 12px; font-weight: 600; fill: #222222; }.badge { font-size: 11px; font-weight: 600; fill: #7A2E4D; }</style>
+<text x="85" y="30" class="title">Оценка месячного эффекта конструктора «Собери свой букет»</text>
+<text x="85" y="50" class="subtitle">Сравнение 3 сценариев (база: 100 000 чел./мес, CR 3.0%, AOV 4 500 ₽, маржа 45%, MVP 450 тыс. ₽)</text>
+<line x1="85" y1="342.0" x2="780" y2="342.0" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="346.0" text-anchor="end" class="axis">0.0 млн</text>
+<line x1="85" y1="299.8" x2="780" y2="299.8" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="303.8" text-anchor="end" class="axis">0.5 млн</text>
+<line x1="85" y1="257.6" x2="780" y2="257.6" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="261.6" text-anchor="end" class="axis">1.0 млн</text>
+<line x1="85" y1="215.4" x2="780" y2="215.4" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="219.4" text-anchor="end" class="axis">1.5 млн</text>
+<line x1="85" y1="173.2" x2="780" y2="173.2" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="177.2" text-anchor="end" class="axis">2.0 млн</text>
+<line x1="85" y1="131.1" x2="780" y2="131.1" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="135.1" text-anchor="end" class="axis">2.5 млн</text>
+<line x1="85" y1="88.9" x2="780" y2="88.9" stroke="#EEEEEE" stroke-width="1"/>
+<text x="75" y="92.9" text-anchor="end" class="axis">3.0 млн</text>
+<rect x="490" y="56" width="12" height="12" fill="#E397B4" rx="2"/>
+<text x="508" y="66" class="axis">Δ Выручки / мес</text>
+<rect x="625" y="56" width="12" height="12" fill="#A63A66" rx="2"/>
+<text x="643" y="66" class="axis">Δ Валовой прибыли / мес</text>
+<rect x="138.8" y="277.2" width="56" height="64.8" fill="#E397B4" rx="4"/>
+<text x="166.8" y="271.2" text-anchor="middle" class="val">+0.77 млн</text>
+<rect x="206.8" y="318.6" width="56" height="23.4" fill="#A63A66" rx="4"/>
+<text x="234.8" y="312.6" text-anchor="middle" class="val">+0.28 млн</text>
+<text x="200.8" y="364" text-anchor="middle" class="val">Пессимистичный</text>
+<rect x="134.8" y="374" width="132" height="22" fill="#FCEBF1" rx="11"/>
+<text x="200.8" y="389" text-anchor="middle" class="badge">Окупаемость: 1.6 мес.</text>
+<rect x="370.5" y="174.9" width="56" height="167.1" fill="#E397B4" rx="4"/>
+<text x="398.5" y="168.9" text-anchor="middle" class="val">+1.98 млн</text>
+<rect x="438.5" y="275.9" width="56" height="66.1" fill="#A63A66" rx="4"/>
+<text x="466.5" y="269.9" text-anchor="middle" class="val">+0.78 млн</text>
+<text x="432.5" y="364" text-anchor="middle" class="val">Базовый</text>
+<rect x="366.5" y="374" width="132" height="22" fill="#FCEBF1" rx="11"/>
+<text x="432.5" y="389" text-anchor="middle" class="badge">Окупаемость: 0.6 мес.</text>
+<rect x="602.2" y="93.1" width="56" height="248.9" fill="#E397B4" rx="4"/>
+<text x="630.2" y="87.1" text-anchor="middle" class="val">+2.95 млн</text>
+<rect x="670.2" y="241.6" width="56" height="100.4" fill="#A63A66" rx="4"/>
+<text x="698.2" y="235.6" text-anchor="middle" class="val">+1.19 млн</text>
+<text x="664.2" y="364" text-anchor="middle" class="val">Оптимистичный</text>
+<rect x="598.2" y="374" width="132" height="22" fill="#FCEBF1" rx="11"/>
+<text x="664.2" y="389" text-anchor="middle" class="badge">Окупаемость: 0.4 мес.</text>
+<line x1="85" y1="342" x2="780" y2="342" stroke="#CCCCCC" stroke-width="1.5"/>
+</svg>
